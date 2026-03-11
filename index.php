@@ -237,7 +237,7 @@ $count_cur = mysqli_fetch_assoc($sql_cur_count)['total'] ?? 0;
                 <h3 class="wow zoomIn" data-wow-delay=".2s" style="color:var(--pink-main);">หลักสูตรของเรา</h3>
                 <h2 class="wow fadeInUp" data-wow-delay=".4s">Programs</h2>
                 <p class="wow fadeInUp" data-wow-delay=".6s">
-                    เลืกศึกษาในหลักสูตรที่ทันสมัยและตอบโจทย์ตลาดงานในยุคดิจิทัล</p>
+                    เลือกศึกษาในหลักสูตรที่ทันสมัยและตอบโจทย์ตลาดงานในยุคดิจิทัล</p>
             </div>
 
             <div class="row">
