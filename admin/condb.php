@@ -1,9 +1,9 @@
 <?php
 // การตั้งค่าการเชื่อมต่อฐานข้อมูล
-$host = "localhost";
-$user = "root";      // ชื่อผู้ใช้งาน (ปกติใน XAMPP คือ root)
-$pass = "";          // รหัสผ่าน (ปกติใน XAMPP จะว่างไว้)
-$db   = "isfact";    // ชื่อฐานข้อมูลตามที่ระบุในไฟล์ SQL
+$host = "sql100.infinityfree.com";
+$user = "if0_41361443";      // ชื่อผู้ใช้งาน (ปกติใน XAMPP คือ root)
+$pass = "XZWZ73DrwzcSbe1";          // รหัสผ่าน (ปกติใน XAMPP จะว่างไว้)
+$db   = "if0_41361443_isfact";    // ชื่อฐานข้อมูลตามที่ระบุในไฟล์ SQL
 
 // สร้างการเชื่อมต่อ
 $conn = mysqli_connect($host, $user, $pass, $db);
